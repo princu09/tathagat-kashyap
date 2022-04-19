@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tathagat-kashyap/static/css/main.a118af6f.css",
+    "main.js": "/tathagat-kashyap/static/js/main.52c55670.js",
+    "static/js/787.92018206.chunk.js": "/tathagat-kashyap/static/js/787.92018206.chunk.js",
+    "static/media/bg-light.png": "/tathagat-kashyap/static/media/bg-light.14536a350484b7221416.png",
+    "index.html": "/tathagat-kashyap/index.html",
+    "main.a118af6f.css.map": "/tathagat-kashyap/static/css/main.a118af6f.css.map",
+    "main.52c55670.js.map": "/tathagat-kashyap/static/js/main.52c55670.js.map",
+    "787.92018206.chunk.js.map": "/tathagat-kashyap/static/js/787.92018206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a118af6f.css",
+    "static/js/main.52c55670.js"
+  ]
+}
